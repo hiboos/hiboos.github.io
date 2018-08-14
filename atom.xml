@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>hiboos</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-08-14T01:10:04.665Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Mister.z</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>试一试标签</title>
+    <link href="http://yoursite.com/2018/08/14/%E8%AF%95%E4%B8%80%E8%AF%95%E6%A0%87%E7%AD%BE/"/>
+    <id>http://yoursite.com/2018/08/14/试一试标签/</id>
+    <published>2018-08-14T01:05:25.000Z</published>
+    <updated>2018-08-14T01:10:04.665Z</updated>
+    
+    <content type="html"><![CDATA[<p>#我想看一下<br>加不加的区别</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;#我想看一下&lt;br&gt;加不加的区别&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="阳仔" scheme="http://yoursite.com/categories/%E9%98%B3%E4%BB%94/"/>
+    
+    
+      <category term="好" scheme="http://yoursite.com/tags/%E5%A5%BD/"/>
+    
+      <category term="帅" scheme="http://yoursite.com/tags/%E5%B8%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>“博客名”</title>
+    <link href="http://yoursite.com/2018/08/13/%E2%80%9C%E5%8D%9A%E5%AE%A2%E5%90%8D%E2%80%9D/"/>
+    <id>http://yoursite.com/2018/08/13/“博客名”/</id>
+    <published>2018-08-13T13:45:05.000Z</published>
+    <updated>2018-08-13T13:45:50.837Z</updated>
+    
+    <content type="html"><![CDATA[<p>很厉害的样子啊啊</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;很厉害的样子啊啊&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
